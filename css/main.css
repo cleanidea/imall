@@ -81,7 +81,7 @@
 
 /*footer*/
 .footer{height:233px; background-color:#D6D6D6;}
-.info{width:718px; height:41px; text-align:center; margin:auto; padding-top:53px;}
+.info{width:718px; height:41px; text-align:center; color:#000; margin:auto; padding-top:53px;}
 .summary{height:21px;}
 .copyright{height:20px;}
 .link{width:600px; height:46px; margin:34px auto 0;}

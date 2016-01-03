@@ -1,5 +1,5 @@
 # imall
-慕课网商城
+慕课网商城（练习）
 
 来自慕课网教程视频 http://www.imooc.com/learn/100
 

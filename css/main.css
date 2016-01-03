@@ -34,7 +34,7 @@
 .section ul li a:hover{color:#FF8C00;}
 	
 /*body*/
-.body{height:1315px; border:1px solid blue;}
+.body{height:1315px;}
 .banner{height:326px;}
 .bannerLeft{width:189px; text-align:center;}
 .pc{height:75px;}
@@ -80,4 +80,4 @@
 
 
 /*footer*/
-.footer{height:233px; border:1px solid purple;}
+.footer{height:233px;}

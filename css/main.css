@@ -2,22 +2,22 @@
 /* CSS Document */
 
 /*公共*/
-.comWidth{width:1000px; margin:auto;}
+.com_width{width:1000px; margin:auto;}
 .fl{float:left;}
 .fr{float:right;}
 
 /*header*/
 .header{height:151px;}
 
-/*header topBar*/
-.topBar{height:31px; background-color:#F7F7F7; border-bottom:1px solid #EEE;}
-/*.topBar a:hover{color:#FF8C00;}*/
-.collectDiv{margin-top:6px;}
-.collectA{font-weight:bold; background:url(../images/icon/collect.jpg) left center no-repeat; padding-left:20px;}
+/*header top_bar*/
+.top_bar{height:31px; background-color:#F7F7F7; border-bottom:1px solid #EEE;}
+/*.top_bar a:hover{color:#FF8C00;}*/
+.collect_div{margin-top:6px;}
+.collect_a{font-weight:bold; background:url(../images/icon/collect.jpg) left center no-repeat; padding-left:20px;}
 .welcome{margin:8px 21px 0 0;}
 
-/*header centerBar*/
-.centerBar{height:85px; background-color:#1D7AD9;}
+/*header center_bar*/
+.center_bar{height:85px; background-color:#1D7AD9;}
 .logo{padding:8px 0 0 39px;}
 .search{width:429px; height:35px; margin:23px 0 0 185px;}
 .search_txt{width:350px; height:35px; line-height:35px; background-color:#FFF; padding:0 5px;}
@@ -26,17 +26,17 @@
 .shop_cart_txt{width:47px; font:14px/35px "Microsoft YaHei UI", "微软雅黑"; color:#FFF; border-right:1px solid #E27A00; background:url(../images/icon/shop_cart.jpg) 10px 6px no-repeat; padding-left:40px;}
 .shop_cart_num{width:38px; font:14px/35px "Microsoft YaHei UI", "微软雅黑"; color:#FFF; border-left:1px solid #FF9C01; padding-left:18px; background:url(../images/icon/shop_cart_num.jpg) 31px 11px no-repeat;}
 
-/*header bottomBar*/
-.bottomBar{height:35px; background-color:#1369C0;}
-.allPros{width:153px; font:16px/35px "Microsoft YaHei UI", "微软雅黑"; color:#FFF; padding-left:36px; background:url(../images/icon/all_pros.jpg) 143px 15px no-repeat;}
+/*header bottom_bar*/
+.bottom_bar{height:35px; background-color:#1369C0;}
+.all_pros{width:153px; font:16px/35px "Microsoft YaHei UI", "微软雅黑"; color:#FFF; padding-left:36px; background:url(../images/icon/all_pros.jpg) 143px 15px no-repeat;}
 .section ul li{width:100px; font:14px/35px "Microsoft YaHei UI", "微软雅黑"; float:left; text-align:center;}
+.section ul li:hover{background-color:#4593FD;}
 .section ul li a{color:#FFF;}
-.section ul li a:hover{color:#FF8C00;}
 	
 /*body*/
-.body{height:1315px;}
+.body{height:1315px; border-top:1px solid #1369C0;}
 .banner{height:326px;}
-.bannerLeft{width:189px; text-align:center;}
+.banner_left{width:189px; text-align:center; padding-top:15px;}
 .pc{height:75px;}
 .pc_left{width:129px; font:24px/60px "Microsoft YaHei UI", "微软雅黑"; color:#000; padding-left:60px; background:url(../images/icon/menu.jpg) left center no-repeat;}
 .pc_cent{padding:35px 21px 0 0; font:12px/25px "新宋体"; color:#000; }
@@ -80,4 +80,9 @@
 
 
 /*footer*/
-.footer{height:233px;}
+.footer{height:233px; background-color:#D6D6D6;}
+.info{width:718px; height:41px; text-align:center; margin:auto; padding-top:53px;}
+.summary{height:21px;}
+.copyright{height:20px;}
+.link{width:600px; height:46px; margin:34px auto 0;}
+.link>img{margin:0 7px 0 9px;}
